@@ -1,9 +1,5 @@
 # Password-Generator
-# Password Generator  Create robust passwords effortlessly! 
 This web app lets you customize length, include uppercase, lowercase, numbers, and symbols. Generate and copy secure passwords in a snap!
-
-# Password Generator
-
 A simple password generator web application that allows users to customize and generate secure passwords.
 
 ## Table of Contents
