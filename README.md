@@ -7,8 +7,8 @@ A simple password generator web application that allows users to customize and g
 - [Features](#features)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Usage](#usage)
 
 ## Features
@@ -18,8 +18,12 @@ A simple password generator web application that allows users to customize and g
 - Responsive design for a seamless user experience.
 
 ## Demo
+![Screenshot from 2024-02-04 16-27-27](https://github.com/diyabhowmick/Password-Generator/assets/116788850/349356bc-8abf-41ef-9152-3c19dabaa65d)
 
-Include a link to a live demo or screenshots/GIFs to showcase the application.
+![Screenshot from 2024-02-04 16-26-53](https://github.com/diyabhowmick/Password-Generator/assets/116788850/0bf2eec6-3115-4ca4-92fd-27bab0690427)
+
+![Screenshot from 2024-02-04 16-27-43](https://github.com/diyabhowmick/Password-Generator/assets/116788850/10a28d1a-00f0-4c6b-859b-676613b6f2ed)
+
 
 ## Getting Started
 
